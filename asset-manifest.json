@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/shivkool40/Week12/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/shivkool40/Week12/static/js/main.99dea345.chunk.js",
-    "main.js.map": "/shivkool40/Week12/static/js/main.99dea345.chunk.js.map",
+    "main.js": "/shivkool40/Week12/static/js/main.913cdd13.chunk.js",
+    "main.js.map": "/shivkool40/Week12/static/js/main.913cdd13.chunk.js.map",
     "runtime-main.js": "/shivkool40/Week12/static/js/runtime-main.236a204e.js",
     "runtime-main.js.map": "/shivkool40/Week12/static/js/runtime-main.236a204e.js.map",
     "static/css/2.150d169a.chunk.css": "/shivkool40/Week12/static/css/2.150d169a.chunk.css",
-    "static/js/2.b420b47a.chunk.js": "/shivkool40/Week12/static/js/2.b420b47a.chunk.js",
-    "static/js/2.b420b47a.chunk.js.map": "/shivkool40/Week12/static/js/2.b420b47a.chunk.js.map",
+    "static/js/2.17314fe3.chunk.js": "/shivkool40/Week12/static/js/2.17314fe3.chunk.js",
+    "static/js/2.17314fe3.chunk.js.map": "/shivkool40/Week12/static/js/2.17314fe3.chunk.js.map",
     "static/js/3.4780447a.chunk.js": "/shivkool40/Week12/static/js/3.4780447a.chunk.js",
     "static/js/3.4780447a.chunk.js.map": "/shivkool40/Week12/static/js/3.4780447a.chunk.js.map",
     "index.html": "/shivkool40/Week12/index.html",
     "static/css/2.150d169a.chunk.css.map": "/shivkool40/Week12/static/css/2.150d169a.chunk.css.map",
     "static/css/main.6dea0f05.chunk.css.map": "/shivkool40/Week12/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.b420b47a.chunk.js.LICENSE.txt": "/shivkool40/Week12/static/js/2.b420b47a.chunk.js.LICENSE.txt"
+    "static/js/2.17314fe3.chunk.js.LICENSE.txt": "/shivkool40/Week12/static/js/2.17314fe3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.236a204e.js",
     "static/css/2.150d169a.chunk.css",
-    "static/js/2.b420b47a.chunk.js",
+    "static/js/2.17314fe3.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.99dea345.chunk.js"
+    "static/js/main.913cdd13.chunk.js"
   ]
 }
